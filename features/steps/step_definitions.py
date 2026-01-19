@@ -13,6 +13,7 @@ def step_given_today_is(context):
 # @given('today is Monday')
 # def step_given_today_is(context):
 #     context.today = "Monday"
+#
 
 
 @when("I ask whether it's Friday yet")
